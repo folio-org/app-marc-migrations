@@ -6,7 +6,7 @@
   <artifactId>app-marc-migrations</artifactId>
   <groupId>org.folio</groupId>
   <description>MARC Migrations Application</description>
-  <version>3.0.0-SNAPSHOT</version>
+  <version>3.1.0-SNAPSHOT</version>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -94,6 +94,6 @@
     <url>https://https://github.com/folio-org/app-platform-minimal</url>
     <connection>scm:git:git://github.com:folio-org/app-platform-minimal.git</connection>
     <developerConnection>scm:git:git@github.com:folio-org/app-platform-minimal.git</developerConnection>
-    <tag>release/v3.0</tag>
+    <tag>HEAD</tag>
   </scm>
 </project>
