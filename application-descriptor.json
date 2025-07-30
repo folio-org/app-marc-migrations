@@ -1,6 +1,6 @@
 {
   "name": "app-marc-migrations",
-  "version": "2.2.0-SNAPSHOT",
+  "version": "2.2.0-SNAPSHOT.1000",
   "description": "MARC Migrations Application",
   "platform": "complete",
   "dependencies": [
