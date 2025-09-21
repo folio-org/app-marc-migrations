@@ -1,6 +1,6 @@
 {
   "name": "app-marc-migrations",
-  "version": "2.2.0-SNAPSHOT.1000",
+  "version": "2.2.0-SNAPSHOT.100100000000001",
   "description": "MARC Migrations Application",
   "platform": "complete",
   "dependencies": [
@@ -12,7 +12,8 @@
   "modules": [
     {
       "name": "mod-marc-migrations",
-      "version": "2.1.0-SNAPSHOT.119"
+      "version": "2.1.0-SNAPSHOT.127"
     }
-  ]
+  ],
+  "uiModules": []
 }
