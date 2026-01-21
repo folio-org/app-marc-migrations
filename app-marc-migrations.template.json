@@ -11,6 +11,10 @@
     {
       "name": "app-marc-storage",
       "version": "^1.0.0-SNAPSHOT"
+    },
+    {
+      "name": "app-authority-records",
+      "version": "^1.0.0-SNAPSHOT"
     }
   ],
   "modules": [
