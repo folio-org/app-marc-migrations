@@ -6,34 +6,34 @@
   "dependencies": [
     {
       "name": "app-platform-minimal",
-      "version": "^VERSION_^2.1.0-SNAPSHOT",
+      "version": "~2.1.0",
       "preRelease": "false"
     },
     {
       "name": "app-marc-storage",
-      "version": "^VERSION_^1.0.0-SNAPSHOT",
+      "version": "~1.0.0",
       "preRelease": "false"
     },
     {
       "name": "app-authority-records",
-      "version": "^VERSION_^1.0.0-SNAPSHOT",
+      "version": "~1.0.0",
       "preRelease": "false"
     },
     {
       "name": "app-inventory",
-      "version": "^VERSION_^1.0.0-SNAPSHOT",
+      "version": "~1.0.0",
       "preRelease": "false"
     },
     {
       "name": "app-data-import",
-      "version": "^VERSION_^1.0.0-SNAPSHOT",
+      "version": "~1.0.0",
       "preRelease": "false"
     }
   ],
   "modules": [
     {
       "name": "mod-marc-migrations",
-      "version": "^VERSION_latest",
+      "version": "~3.0.0",
       "preRelease": "false"
     }
   ]
