@@ -1,12 +1,12 @@
 {
-  "id" : "app-marc-migrations-3.1.0-SNAPSHOT.100200000011137",
+  "id" : "app-marc-migrations-3.1.0-SNAPSHOT.100200000011363",
   "name" : "app-marc-migrations",
-  "version" : "3.1.0-SNAPSHOT.100200000011137",
+  "version" : "3.1.0-SNAPSHOT.100200000011363",
   "description" : "MARC Migrations Application",
   "modules" : [ {
-    "id" : "mod-marc-migrations-3.1.0-SNAPSHOT.2167",
+    "id" : "mod-marc-migrations-3.1.0-SNAPSHOT.2170",
     "name" : "mod-marc-migrations",
-    "version" : "3.1.0-SNAPSHOT.2167"
+    "version" : "3.1.0-SNAPSHOT.2170"
   } ],
   "uiModules" : [ ],
   "dependencies" : [ {
@@ -31,7 +31,7 @@
     "preRelease" : "only"
   } ],
   "moduleDescriptors" : [ {
-    "id" : "mod-marc-migrations-3.1.0-SNAPSHOT.2167",
+    "id" : "mod-marc-migrations-3.1.0-SNAPSHOT.2170",
     "name" : "MARC Migrations",
     "requires" : [ {
       "id" : "authority-storage",
@@ -161,7 +161,7 @@
       "subPermissions" : [ "marc-migrations.operations.collection.get", "marc-migrations.operations.item.post", "marc-migrations.operations.item.get", "marc-migrations.operations.item.put", "marc-migrations.operations.retry.item.post", "marc-migrations.operations.save.retry.item.post", "marc-migrations.operations.error-report.post", "marc-migrations.operations.error-report.status.item.get", "marc-migrations.operations.error-report.errors.collection.get" ]
     } ],
     "launchDescriptor" : {
-      "dockerImage" : "folioci/mod-marc-migrations:3.1.0-SNAPSHOT.2167",
+      "dockerImage" : "folioci/mod-marc-migrations:3.1.0-SNAPSHOT.2170",
       "dockerPull" : true,
       "env" : [ {
         "name" : "JAVA_OPTIONS",
